@@ -1,7 +1,7 @@
 # Hey Everyone! I'm [KUNA RAJA NARENDRA](https://github.com/narendra-krn) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Hey%20Everyone!%20I'm%20Raja%20Narendra&fontSize=40&fontColor=fff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Raja%20Narendra&fontSize=40&fontColor=fff)
 
 # 💫 About Me:
 - 🔭 I’m currently working on ... a freelance Python Trainer at Pythonlife <br>- 🌱 I’m currently learning ... Typescript. <br>- 👯  I’ve successfully trained 1000+ students in Python programming, covering everything from basics to advanced concepts. I specialize in providing study materials, hands-on tasks, and interview preparation resources to ensure effective and practical learning..<br>- 💬 Ask me about ...Python programming: Basics to advanced concepts.
