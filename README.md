@@ -5,7 +5,8 @@
 # 💫 About Me:
 
 💻 Frontend Developer with 3 years experience  
-⚛️ React.js | Python | Angular | JavaScript | Bootstrap | CSS5 | HTML5 <br>
+⚛️ **Frontend:** React.js | Angular | JavaScript | TypeScript | HTML | CSS | Bootstrap  <br>
+🐍 **Python Stack:** Python | Django | NumPy | Matplotlib
 🎯 Passionate about building scalable web applications  
 📍 India <br>
 📫 How to reach me: ... rajanarendra.krn@gmail.com
