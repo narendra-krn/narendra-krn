@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Kuna%20Raja%20Narendra&fontSize=40&fontColor=fff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=KUNA%20RAJA%20NARENDRA&fontSize=40&fontColor=fff)
 # Hey Everyone! I'm [KUNA RAJA NARENDRA](https://github.com/narendra-krn) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
 
 
@@ -33,13 +33,5 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 <br><br>
-
-
-# ⚡ Github Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vasukumar3&show_icons=true&locale=en" alt="Vasukumar3" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vasukumar3&" alt="Vasukumar3" /></p>
-
-
 
 
