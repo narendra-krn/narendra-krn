@@ -2,6 +2,10 @@
 # Hey Everyone! I'm [KUNA RAJA NARENDRA](https://github.com/narendra-krn) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
 
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+Developer;Angular+Developer;JavaScript+Enthusiast;Welcome+to+my+GitHub+Profile!" />
+</p>
+
 
 # 💫 About Me:
 💻 Frontend Developer with 3 years experience  
