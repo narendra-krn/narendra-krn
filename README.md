@@ -1,7 +1,7 @@
 # Hey Everyone! I'm [KUNA RAJA NARENDRA](https://github.com/narendra-krn) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Hey%20Everyone!%20👋&desc=I'm%20Raja%20Narendra&descSize=30&fontSize=45&fontColor=fff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Hey%20Everyone!%20I%27m%20Raja%20Narendra&fontSize=40&fontColor=fff)
 
 
 # 💫 About Me:
