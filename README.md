@@ -5,9 +5,9 @@
 
 # 💫 About Me:
 💻 Frontend Developer with 3 years experience  
-⚛️ React.js | Python | Angular | JavaScript | Bootstrap | CSS5 | HTML5 
+⚛️ React.js | Python | Angular | JavaScript | Bootstrap | CSS5 | HTML5 <br>
 🎯 Passionate about building scalable web applications  
-📍 India <br><br>
+📍 India <br>
 📫 How to reach me: ... rajanarendra.krn@gmail.com
 
 
@@ -41,10 +41,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vasukumar3&" alt="Vasukumar3" /></p>
 
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/Vasu_kumar3)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
----
-[![](https://visitcount.itsvg.in/api?id=@Vasukumar3&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
