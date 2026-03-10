@@ -13,12 +13,15 @@
 🎯 Passionate about building scalable web applications 
 
 📍 India <br>
+
 📫 How to reach me: ... rajanarendra.krn@gmail.com
+
 
 ## 🌐 Socials:
 
 <a href="https://www.linkedin.com/in/kunarajanarendra/"><img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <br><br>
+
 
 # 💻 Tech Stack:
 
@@ -37,4 +40,5 @@
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 <br><br>
